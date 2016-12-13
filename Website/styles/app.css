@@ -1,0 +1,185 @@
+.top-bar{
+  background-color: dimgray;
+  height: 80px;
+  column-count: 3;
+  /*column-rule-style: solid;*/
+}
+.image1{
+  color: white;
+  font-size: 30px;
+  text-align: left;
+}
+.about{
+  color: white;
+  font-size: 30px;
+  text-align: center;
+}
+.in-box{
+  text-align: right;
+}
+#one{
+  font-size: 30px;
+}
+.download-button {
+  margin-top: 9px;
+}
+.video-section{
+  background-color: dimgray;
+  height: 450px;
+  /*column-count: 2;*/
+}
+.C2{
+  margin-top: -450px;
+  padding-left: 930px;
+  /*column-width: 100px;*/
+}
+.row1{
+  font-size: 50px;
+}
+.row2{
+  font-size: 50px;
+}
+.row3{
+  font-size: 50px;
+  padding-left: 65px;
+}
+#two{
+  font-size: 30px;
+  text-align: center;
+}
+#thr{
+  font-size: 30px;
+  text-align: center;
+}
+.in-box1{
+  margin-top: 15px
+}
+.in-box2{
+  margin-top: -60px;
+  padding-left: 195px;
+}
+.DL{
+  padding-left: 870px;
+}
+.image3{
+  margin-top: 45px;
+}
+.image4{
+  margin-top: -75px;
+  padding-left: 220px;
+}
+.prescript{
+  height: 45px;
+  background-color: linen;
+}
+.inscript{
+  background-color: linen;
+  height: 300px;
+  column-count: 3;
+}
+.quote1{
+  padding-top: 50px;
+  text-align: center;
+}
+.quote2{
+  padding-top: 65px;
+  text-align: center;
+}
+.image9{
+  text-align: center;
+}
+.mid1script{
+  height: 450px;
+  background-image: url(../images/0.jpg);
+  background-size: cover;
+  column-count: 3;
+  text-align: center;
+  font-size: 100px;
+  color: inherit;;
+}
+.image10{
+  padding-top: 50px;
+}
+.image11{
+  padding-top: 50px;
+}
+.mid2script{
+  height: 750px;
+  background-image: url(../images/1.jpg);
+  background-size: cover;
+  column-count: 3;
+  text-align: center;
+  font-size: 30px;
+}
+.image12{
+  padding-top: 140px;
+}
+.image13{
+  padding-top: 300px;
+  padding-left: 100px
+}
+.mid2-2{
+  color: white;
+}
+.image14{
+  padding-top: 140px;
+}
+.download{
+  background-image: url(../images/2.jpg);
+  background-size: cover;
+  height:700px;
+  column-count: 4;
+}
+.d1{
+  padding-top: 30px;
+  font-size: 60px;
+}
+.image5{
+  text-align: center;
+  padding-top: 10px;
+  padding-left: 20px;
+}
+.image6{
+  padding-top: 10px;
+  text-align: center;
+}
+.image7{
+  padding-top: 30px;
+  text-align: center;
+}
+.fafo{
+  background-color: black;
+  height: 55px;
+  column-count: 6;
+}
+.foot{
+  font-size: 20px;
+  color: grey
+}
+#for{
+  padding-top: 27px;
+}
+#fiv{
+  padding-top: 27px;
+}
+#six{
+  padding-top: 27px;
+  padding-left: 15px;
+}
+#sev{
+  padding-top: 27px;
+  padding-left: 55px;
+}
+#eig{
+  padding-top: 27px;
+  padding-left: 50px;
+}
+.image8{
+  text-align: right;
+}
+footer{
+  background-color: black;
+  height: 20px;
+  text-align: right;
+  color: grey;
+}
